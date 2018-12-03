@@ -8,10 +8,10 @@ subtitle: My Wonder World
 description: This is a personal blog built by Hanyuan PENG (That's me). I will update this blog from time to time, but at least once a week. All blogs will be written in english, chinese and french.
 keywords:
 author: Hanyuan PENG
-language:
-  - zh-Hans
-  - en
-  - fr
+language: en
+  # - zh-Hans
+  # - en
+  # - fr
 timezone:
 
 # URL
@@ -77,17 +77,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-# marked plugin
-marked:
-  gfm: true
-  pedantic: false
-  sanitize: false
-  tables: true
-  breaks: true
-  smartLists: true
-  smartypants: true
-  modifyAnchors: ''
-  autolink: true
+
+disqus_shortname: hywonderwall
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
