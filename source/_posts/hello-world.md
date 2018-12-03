@@ -2,7 +2,6 @@
 title: TODO List
 top: true
 ---
-
 <div class="note default">
   <i class="fa fa-check-square"></i> Build a blog
   <i class="fa fa-check-square"></i> Practice singing skill
