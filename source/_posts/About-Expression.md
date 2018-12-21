@@ -10,7 +10,7 @@ If you think that expression must be effective, then it is very tired.
 
 
 ---
-<!--more-->
+
 
 表达最宝贵之处在于表达本身。
 
